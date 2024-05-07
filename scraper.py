@@ -3,6 +3,8 @@ import requests
 #tsts
 import pandas
 import lib
+import math
+import log
 
 from bs4 import BeautifulSoup
 
